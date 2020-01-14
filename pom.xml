@@ -8,11 +8,11 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>io.github.shivamd20</groupId>
-	<artifactId>ramesh2</artifactId>
+	<groupId>io.github.employee</groupId>
+	<artifactId>Employee</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ramesh2</name>
-	<description>Battle</description>
+	<name>Employee</name>
+	<description>EmployeeStatistics</description>
 
 	<properties>
 		<java.version>1.8</java.version>
